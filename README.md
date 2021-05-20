@@ -1,3 +1,3 @@
 # detoxe2e
 
-This is sample karthiks commit
+This is sample Mobile detox e2e project
